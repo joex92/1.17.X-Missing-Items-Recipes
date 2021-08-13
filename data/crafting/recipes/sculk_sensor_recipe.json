@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# #",
+        "WQW",
+        "CRC"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glow_lichen"
+        },
+        "W": {
+            "item": "minecraft:warped_wart_block"
+        },
+        "Q": {
+            "item": "minecraft:quartz"
+        },
+        "C": {
+            "item": "minecraft:crying_obsidian"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        }
+    },
+    "result": {
+        "item": "minecraft:sculk_sensor",
+        "count": 1
+    }
+}
